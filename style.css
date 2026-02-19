@@ -62,7 +62,7 @@ padding: 20px;
   display: grid;
   grid-template-columns:1fr 1fr; 
   grid-template-rows: 1fr 1fr;
-  background-color: dodgerblue;f
+  background-color: dodgerblue;
   padding: 5px;
   gap: 5px;  
 }
